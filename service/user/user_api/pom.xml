@@ -7,7 +7,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
     <artifactId>user-api</artifactId>
-    <packaging>war</packaging>
+    <packaging>jar</packaging>
     <name>user-api Maven Webapp</name>
     <url>http://maven.apache.org</url>
     <dependencies>

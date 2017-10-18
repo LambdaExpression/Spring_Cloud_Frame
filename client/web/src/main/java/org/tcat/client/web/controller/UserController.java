@@ -15,7 +15,7 @@ public class UserController {
 
     @GetMapping("test")
     public Object test() {
-        return userService.test();
+        return userService.getOne(1);
     }
 
 }
